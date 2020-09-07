@@ -1,3 +1,2 @@
-# Hello-World
-Созданный репозиторий по README
-check
+Hi.
+My name is Dmitriy.
